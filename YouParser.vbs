@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run "YouParser.bat", 0, True
